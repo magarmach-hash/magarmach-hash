@@ -3,14 +3,18 @@
 ## 💻 About Me
 
 - 🎓 Computer Science Engineering Student  
-- 🔐 Interested in Cybersecurity, Blockchain Development, and Data Science  
-- 🛠️ Working on:  
-  - C/C++, Java, Python  
-  - Linux Systems, Open Source Projects  
-- 🌱 Currently Learning:
-  - AI/ML Basics
-  - Penetration Testing & Ethical Hacking
-  - Competitive Programming  
+- 🔐 Focused on:  
+  - Ethical Hacking & Red Teaming  
+  - GenAI   
+- 🛠️ Skills:  
+  - C/C++, Python  
+  - Linux Systems & Scripting  
+  - Penetration Testing Tools (Nmap, Wireshark, Metasploit, Sliver C2)
+  - Privilege Escalation (Linux & Windows) 
+- 🌱 Currently Exploring:  
+  - Advanced Red Team Tactics  
+  - GenAI   
+ 
 
 
 ## 🌐 Socials:
